@@ -1,0 +1,4 @@
+NameGenerator:
+	node bin/NameGenerator
+
+

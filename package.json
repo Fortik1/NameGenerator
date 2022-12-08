@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
     "module-name": "^0.0.1-security",
     "nodejs": "^0.0.0"
   },
@@ -9,7 +10,7 @@
   "description": "",
   "bin": {
     "NameGenerator": "bin/NameGenerator"
-},
+  },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
