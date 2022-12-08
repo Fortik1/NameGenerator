@@ -1,4 +1,5 @@
 NameGenerator:
-	node bin/NameGenerator
+	node bin/NameGenerator.js
+
 
 
