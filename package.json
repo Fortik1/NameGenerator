@@ -1,10 +1,15 @@
 {
   "dependencies": {
     "eslint": "^8.29.0",
+    "module-name": "^0.0.1-security",
     "nodejs": "^0.0.0"
   },
   "name": "namegenerator",
+  "type": "module",
   "description": "",
+  "bin": {
+    "NameGenerator": "bin/NameGenerator"
+},
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
