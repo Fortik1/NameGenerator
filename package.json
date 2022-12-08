@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^8.29.0"
+    "eslint": "^8.29.0",
+    "nodejs": "^0.0.0"
   },
   "name": "namegenerator",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
